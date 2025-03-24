@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b421164.css",
+    "main.js": "/static/js/main.5f0417c7.js",
+    "static/js/453.7d9aa295.chunk.js": "/static/js/453.7d9aa295.chunk.js",
+    "static/media/leef2.png": "/static/media/leef2.2acdf2177b998875781b.png",
+    "static/media/leef1.png": "/static/media/leef1.490e23fec2df5ef945e2.png",
+    "index.html": "/index.html",
+    "main.7b421164.css.map": "/static/css/main.7b421164.css.map",
+    "main.5f0417c7.js.map": "/static/js/main.5f0417c7.js.map",
+    "453.7d9aa295.chunk.js.map": "/static/js/453.7d9aa295.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b421164.css",
+    "static/js/main.5f0417c7.js"
+  ]
+}
